@@ -10,6 +10,8 @@ Includes two example programs:
 ```bash
 make tweets_generator
 make snakes_and_ladders
-
+```
+##Run
+```bash
 ./tweets_generator <seed> <num_tweets> <file_path> [max_words_to_read]
 ./snakes_and_ladders <seed> <num_walks>
